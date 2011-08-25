@@ -1,0 +1,13 @@
+This contain my solutions to the exercises found in The Scheme Programming
+Language, 4th Edition [http://www.scheme.com/tspl4.html]
+
+The solutions were tested using Petite Chez Scheme v8,3 [http://www.scheme.com/download/]
+and guile v2.0.2 [http://www.gnu.org/s/guile/]
+
+The solutions are licensed under the GNU GPL version 3.
+
+The code is organized by chapter and exercise number. For example, the
+code for the solution to exercise 2.42 in chapter 2 is contained in
+the file named ex2.42.scm in the chap2/ subdirectory.
+
+This is a work-in-progress.
